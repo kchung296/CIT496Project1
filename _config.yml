@@ -19,15 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Kevin Chung CIT496P 
-email: your-email@example.com
+email: ckevin75@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my personal GitHub. This will be primarily used for CIT496. Thank you for visiting my page.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KChungus
-github_username:  KChungus
+twitter_username: KChungus496
+github_username:  KChungus496
 
 # Build settings
 theme: minima
