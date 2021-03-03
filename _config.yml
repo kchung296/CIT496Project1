@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kevin Chung CIT496P 
+title: Chung CIT496
 email: ckevin75@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal GitHub. This will be primarily used for CIT496. Thank you for visiting my page.
